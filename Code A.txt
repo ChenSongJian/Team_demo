@@ -1,15 +1,14 @@
-Version 1.1 Uno
+Version 1.1
 /********************
 Just to simulate content in a programming source code
 All statements starts as "Code A" in this file
 ********************/
-
 X. Code Duo Fibonacci
-X. Code Duo Fibonacci
+2. Code Uno Prime
 X. Code Duo Fibonacci
 4. Code A
 X. Code Duo Fibonacci
 6. Code A
-7. Code A
+7. Code Uno Prime
 X. Code Duo Fibonacci
 9. Code A
